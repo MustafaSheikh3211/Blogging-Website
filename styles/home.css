@@ -1,0 +1,13 @@
+a {
+  color: #111; /* Shortened hex color */
+  font-size: 16pt;
+}
+
+div {
+  color: #222; /* Shortened hex */
+  font-size: 18pt;
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+}

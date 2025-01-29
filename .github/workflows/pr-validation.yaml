@@ -44,4 +44,4 @@ jobs:
         run: npm install parcel
 
       - name: Build the Website
-        run: npx parcel build src/index.html
+        run: npx parcel build src/home.html
